@@ -1,4 +1,4 @@
-service: aws-nestjs-starter
+service: scg-payments-app
 
 provider:
   name: aws
